@@ -175,3 +175,4 @@ class _BalanceDetailsPageState extends State<BalanceDetailsPage> {
     );
   }
 }
+

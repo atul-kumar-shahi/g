@@ -198,3 +198,4 @@ class _TotalSelectorState extends State<TotalSelector> {
     );
   }
 }
+

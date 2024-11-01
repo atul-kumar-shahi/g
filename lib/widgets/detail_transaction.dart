@@ -155,3 +155,4 @@ class TransactionDetailScreen extends StatelessWidget {
     return formatter.format(dateTime);
   }
 }
+

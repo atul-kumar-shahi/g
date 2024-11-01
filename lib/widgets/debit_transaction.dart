@@ -111,3 +111,4 @@ class DebitTransactionCard extends StatelessWidget {
     }
   }
 }
+

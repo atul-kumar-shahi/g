@@ -9,6 +9,7 @@ class AllBalancesPage extends StatefulWidget {
   _AllBalancesPageState createState() => _AllBalancesPageState();
 }
 
+
 class _AllBalancesPageState extends State<AllBalancesPage> {
   double _totalBalance = 0.0;
 

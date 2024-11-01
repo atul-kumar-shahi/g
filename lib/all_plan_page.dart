@@ -12,6 +12,7 @@ class FinancialPlanner extends StatelessWidget {
         title: const Text('All Plans'),
          centerTitle: true,
       ),
+
       body: Column(
         children: [
           TotalSelector(),
